@@ -14,7 +14,7 @@ You need to have Node.js and MongoDB installed on your machine.
 
 1. Clone the repository
 ```bash
-git clone https://github.com/davyken/rest-api.git
+git clone https://github.com/davyken/rest-api-with-mongodb.git
 ```
 2. Install dependencies
 ```bash
